@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 Hi! I'm a mechanical engineering major who's as interested in software as the underlying principles that make computing possible. I make websites, design databases, game engines, and neural networks. Sometimes I even try to emulate hardware I like. 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tic-tacs&theme=radical)
+
 ## :star: Interests #include
  - :globe_with_meridians: Full Stack Web Development
  - :crystal_ball: Ai & Machine Learning
  - :computer: Graphics Programming with OpenGL and c++
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tic-tacs&theme=radical)
+
 ## :hammer: Languages and Tools I know
 
 - :globe_with_meridians: Web Development
