@@ -22,6 +22,7 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
  - :crystal_ball: Ai & Machine Learning
  - :computer: Graphics Programming with OpenGL and c++
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tic-tacs&theme=radical)
 ## :hammer: Languages and Tools I know
 
 - :globe_with_meridians: Web Development
