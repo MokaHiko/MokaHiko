@@ -49,6 +49,6 @@ https://github.com/tic-tacs/Learn-LearnOpenGL
 | :---:         |     :---:      |      :---:  |  
 
 # :blue_heart: Get In Touch
-| [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/christian-mark-g-solon-24b9891a1/) | [<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/hellschristian)| 
+| [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/christian-mark-g-solon-24b9891a1/) | [<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/ChristianSolon1)| 
 | :---:         |     :---:      |    
 
