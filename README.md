@@ -19,11 +19,16 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tic-tacs&theme=radical)
 
-## :star: Interests #include
- - :globe_with_meridians: Full Stack Web Development
- - :crystal_ball: Ai & Machine Learning
- - :computer: Graphics Programming 
+### :pushpin: *Currrently Working On: Model Loading*
+https://github.com/tic-tacs/Learn-LearnOpenGL
 
+![alt text](https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif)
+
+
+## :star: Interests #include
+ - :computer: Graphics Programming 
+ - :crystal_ball: Ai & Machine Learning
+ - :globe_with_meridians: Full Stack Web Development
 
 ## :hammer: Languages and Tools I know
 
@@ -33,7 +38,6 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 | :---:         |     :---:      |      :---:  |  :---:         |     :---:      |      :---:  |
 
 - :crystal_ball: Graphics and Game Development
-
 
  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /> | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />  | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /> | <img height="32" width="32" src="https://i.redd.it/tu3gt6ysfxq71.png" />  | 
 | :---:         |     :---:      |      :---:  |  :---:         | 
