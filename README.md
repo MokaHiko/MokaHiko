@@ -22,7 +22,7 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 ## :star: Interests #include
  - :globe_with_meridians: Full Stack Web Development
  - :crystal_ball: Ai & Machine Learning
- - :computer: Graphics Programming with OpenGL and c++
+ - :computer: Graphics Programming 
 
 
 ## :hammer: Languages and Tools I know
