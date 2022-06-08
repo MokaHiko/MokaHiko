@@ -19,7 +19,7 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tic-tacs&theme=radical)
 
-### :pushpin: *Currrently Working On: Model Loading*
+### :pushpin: *Currrently Working On: Advance OpenGL*
 https://github.com/tic-tacs/Learn-LearnOpenGL
 
 ![alt text](https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif)
