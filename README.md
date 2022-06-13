@@ -22,7 +22,7 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 ### :pushpin: *Currrently Working On: Advance OpenGL*
 https://github.com/tic-tacs/Learn-LearnOpenGL
 
-<em>Model Loading w Phong Lighting</em>             | <em>Kernel Post Processign Effects (Blur)</em>
+<em>Model Loading w Phong Lighting</em>             | <em>Kernel Post Processing Effects (Blur)</em>
 :-------------------------:|:-------------------------:
 <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif " width="500" height="250"> |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Blur.gif " width="500" height="250">
 
