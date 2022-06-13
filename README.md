@@ -22,7 +22,11 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 ### :pushpin: *Currrently Working On: Advance OpenGL*
 https://github.com/tic-tacs/Learn-LearnOpenGL
 
-![alt text](https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif)
+<em>Model Loading w Phong Lighting</em>             | <em>Kernel Post Processign Effects (Blur)</em>
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif) |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Blur.gif " width="500" height="250">
+
+
 
 
 ## :star: Interests #include
