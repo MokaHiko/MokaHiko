@@ -24,7 +24,7 @@ https://github.com/tic-tacs/Learn-LearnOpenGL
 
 <em>Model Loading w Phong Lighting</em>             | <em>Kernel Post Processign Effects (Blur)</em>
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif) |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Blur.gif " width="500" height="250">
+<img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif " width="500" height="250"> |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Blur.gif " width="500" height="250">
 
 
 
