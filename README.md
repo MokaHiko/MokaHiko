@@ -21,7 +21,7 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 
 ### :pushpin: *Currrently Working On: Opengl Sims*
 https://github.com/tic-tacs/Learn-LearnOpenGL
-<em>Model Loading w Phong Lighting</em>             | <em>Instanced Rendering</em>
+<em>Cellular Automata</em>             | <em>Model Loading w Phong Lighting</em>
 :-------------------------:|:-------------------------:
 <img src="https://github.com/tic-tacs/AutomataEngine/raw/main/gifs/AutomataDemo.gif?raw=true" width="500" height="250"> |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif" width="500" height="250">
 
