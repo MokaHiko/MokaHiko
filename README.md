@@ -19,12 +19,11 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tic-tacs&theme=radical)
 
-### :pushpin: *Currrently Working On: Advance OpenGL*
+### :pushpin: *Currrently Working On: Opengl Sims*
 https://github.com/tic-tacs/Learn-LearnOpenGL
-
 <em>Model Loading w Phong Lighting</em>             | <em>Instanced Rendering</em>
 :-------------------------:|:-------------------------:
-<img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif " width="500" height="250"> |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/asteroids.gif" width="500" height="250">
+<img src="https://github.com/tic-tacs/AutomataEngine/raw/main/gifs/AutomataDemo.gif?raw=true" width="500" height="250"> |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif" width="500" height="250">
 
 
 
