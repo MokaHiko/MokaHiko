@@ -23,7 +23,7 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 https://github.com/tic-tacs/Learn-LearnOpenGL
 <em>Cellular Automata</em>             | <em>Model Loading w Phong Lighting</em>
 :-------------------------:|:-------------------------:
-<img src="https://github.com/tic-tacs/AutomataEngine/raw/main/gifs/AutomataDemo.gif?raw=true" width="500" height="250"> |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif" width="500" height="250">
+<img src="https://github.com/tic-tacs/AutomataEngine/raw/main/gifs/AutomataDemo.gif?raw=true" width="400" height="250"> |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif" width="400" height="250">
 
 
 
