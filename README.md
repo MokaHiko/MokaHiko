@@ -19,9 +19,9 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 
 ### :pushpin: *Currrently Working On: Sengine*
 https://github.com/tic-tacs/SENGENE
-<em>Multiplayer FPS</em>             | <em>Model Loading w Phong Lighting</em>
+<em>Multiplayer FPS</em>             | <em>SENGINE - Game/Rendering Engine</em>
 :-------------------------:|:-------------------------:
-<img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/tic-tacs/Learn-LearnOpenGL/blob/main/DemoGifs/Part3.gif" width="400" height="250">
+<img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/tic-tacs/SENGENE/blob/2D/Docs/Gifs/box2D_demo.gif?raw=true" width="400" height="250">
 
 ## :star: Interests #include
  - :computer: Graphics Programming 
