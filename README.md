@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi! I'm a mechanical engineering major who's as interested in software as the underlying principles that make computing possible. I make websites, design databases, game engines, and neural networks. Sometimes I even try to emulate hardware I like. 
 
 ### :pushpin: *Currrently Working On: Sengine*
-https://github.com/tic-tacs/SENGENE
+https://github.com/MokaHiko/SENGENE
 <em>Multiplayer FPS</em>             | <em>SENGINE - Game/Rendering Engine</em>
 :-------------------------:|:-------------------------:
 <img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/tic-tacs/SENGENE/blob/2D/Docs/Gifs/box2D_demo.gif?raw=true" width="400" height="250">
@@ -46,7 +46,7 @@ https://github.com/tic-tacs/SENGENE
 | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /> | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />  | 
 | :---:         |     :---:      |      :---:  |  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tic-tacs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MokaHiko&theme=radical)
 
 # :blue_heart: Get In Touch
 | [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/christian-mark-g-solon-24b9891a1/) | [<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/ChristianSolon1)| 
