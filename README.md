@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Hi! I'm a mechanical engineering major who's as interested in software as the underlying principles that make computing possible. I make websites, design databases, game engines, and neural networks. Sometimes I even try to emulate hardware I like. 
 
-### :pushpin: *Currrently Working On: Sengine*
-https://github.com/MokaHiko/SENGENE
+### :pushpin: *Currrently Working On: Mars*
+https://github.com/MokaHiko/Mars
 <em>Multiplayer FPS</em>             | <em>SENGINE - Game/Rendering Engine</em>
 :-------------------------:|:-------------------------:
 <img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/tic-tacs/SENGENE/blob/2D/Docs/Gifs/box2D_demo.gif?raw=true" width="400" height="250">
