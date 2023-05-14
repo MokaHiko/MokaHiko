@@ -19,9 +19,9 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 
 ### :pushpin: *Currrently Working On: Mars*
 https://github.com/MokaHiko/Mars
-<em>Multiplayer FPS</em>             | <em>SENGINE - Game/Rendering Engine</em>
+<em>Multiplayer FPS</em>             | <em>Mars - Game/Rendering Engine</em>
 :-------------------------:|:-------------------------:
-<img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/tic-tacs/SENGENE/blob/2D/Docs/Gifs/box2D_demo.gif?raw=true" width="400" height="250">
+<img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/MokaHiko/Mars/raw/master/demo_gifs/mesh_demo.gif" width="400" height="250">
 
 ## :star: Interests #include
  - :computer: Graphics Programming 
