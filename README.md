@@ -19,9 +19,13 @@ Hi! I'm a mechanical engineering major who's as interested in software as the un
 
 ### :pushpin: *Currrently Working On: Mars*
 https://github.com/MokaHiko/Mars
-<em>Multiplayer FPS</em>             | <em>Mars - Game/Rendering Engine</em>
+<em>Multiplayer FPS</em>             | <em>Mars - Vulkan Based Game Engine</em>
 :-------------------------:|:-------------------------:
 <img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/MokaHiko/Mars/raw/master/demo_gifs/mesh_demo.gif" width="400" height="250">
+<em>Mars - Shadow Maps</em>             | <em>SENGENE - Skinned Animation</em>
+<img src="https://github.com/MokaHiko/Mars/blob/master/demo_gifs/Shadows.gif?raw=true" width="400" height="250"> |  <img src="https://github.com/MokaHiko/SENGENE/blob/main/SGE_DOCS/Gifs/dancing.gif?raw=true" width="400" height="250">
+<em>Mars - SENGENE - OpenGL Renderer</em>             | <em>SEGENE - GPU Compute Particles</em>
+<img src="https://github.com/MokaHiko/SENGENE/blob/main/SGE_DOCS/Gifs/first.gif?raw=true" width="400" height="250"> |  <img src="https://github.com/MokaHiko/Mars/blob/master/demo_gifs/Gpu%20Compute%20And%202D%20Sprite%20Rendering.gif?raw=true" width="400" height="250">
 
 ## :star: Interests #include
  - :computer: Graphics Programming 
