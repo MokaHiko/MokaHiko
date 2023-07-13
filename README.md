@@ -33,16 +33,14 @@ https://github.com/MokaHiko/Mars
  - :globe_with_meridians: Full Stack Web Development
 
 ## :hammer: Languages and Tools I know
+- :crystal_ball: Graphics and Game Development
 
+ <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /> | <img height="32" width="32" src="https://raw.githubusercontent.com/SaschaWillems/Vulkan/master/images/vulkanlogoscene.png" />  | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" /> | <img height="32" width="32" src="https://i.redd.it/tu3gt6ysfxq71.png" />  | 
+| :---:         |     :---:      |      :---:  |  :---:    
 - :globe_with_meridians: Web Development
 
 | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />  | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /> | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> | <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />  | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /> | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />  | 
 | :---:         |     :---:      |      :---:  |  :---:         |     :---:      |      :---:  |
-
-- :crystal_ball: Graphics and Game Development
-
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /> | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />  | <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /> | <img height="32" width="32" src="https://i.redd.it/tu3gt6ysfxq71.png" />  | 
-| :---:         |     :---:      |      :---:  |  :---:         | 
 
 -  :dog: || :cat: AI / Machine Learning
 
