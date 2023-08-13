@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm a mechanical engineering major who's as interested in software as the underlying principles that make computing possible. I make websites, design databases, game engines, and neural networks. Sometimes I even try to emulate hardware I like. 
+Hi! I'm a game and game engine developer who is as interested in software as the underlying principles that make computing possible. I make websites, design databases, game engines, and neural networks. Sometimes I even try to emulate hardware I like. 
 
 ### :pushpin: *Currrently Working On: Mars*
 https://github.com/MokaHiko/Mars
