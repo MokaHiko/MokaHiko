@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Hi! I'm a game and game engine developer who is as interested in software as the underlying principles that make computing possible. I make websites, design databases, game engines, and neural networks. Sometimes I even try to emulate hardware I like. 
 
-### :pushpin: *Currrently Working On: Mars*
-https://github.com/MokaHiko/Mars
-<em>Multiplayer FPS</em>             | <em>Mars - Vulkan Based Game Engine</em>
+### :pushpin: *Currrently Working On: YoYo*
+https://github.com/MokaHiko/YoYo
+<em>Multiplayer FPS</em>             | <em>YoYo - Vulkan Based Game Engine</em>
 :-------------------------:|:-------------------------:
-<img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/MokaHiko/Mars/raw/master/demo_gifs/mesh_demo.gif" width="400" height="250">
+<img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/MokaHiko/YoYo/blob/master/branding/sun_test.gif?raw=true" width="400" height="250">
 <em>SENGENE - Skinned Mesh Animation</em>             | <em>Celllar Automata</em>
 <img src="https://github.com/MokaHiko/SENGENE/blob/main/SGE_DOCS/Gifs/dancing.gif?raw=true" width="400" height="250"> |  <img src="https://github.com/tic-tacs/AutomataEngine/raw/main/gifs/AutomataDemo.gif?raw=true" width="400" height="250">
 <em>Mars - Shadow Maps</em>             | <em>Mars - GPU Compute Particles</em>
