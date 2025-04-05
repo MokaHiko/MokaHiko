@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Hi! I'm a game and game engine developer who is as interested in software as the underlying principles that make computing possible. I make websites, design databases, game engines, and neural networks. Sometimes I even try to emulate hardware I like. 
 
-### :pushpin: *Currrently Working On: YoYo*
-https://github.com/MokaHiko/YoYo
+### :pushpin: *Currrently Working On: MGFX*
+https://github.com/MokaHiko/Mgfx
 <em>Multiplayer FPS</em>             | <em>YoYo - Vulkan Based Game Engine</em>
 :-------------------------:|:-------------------------:
 <img src="https://github.com/tic-tacs/Ricochet/blob/main/DemoGIFS/CombatDemo.gif" width="400" height="250"> |  <img src="https://github.com/MokaHiko/YoYo/blob/master/branding/sun_test.gif?raw=true" width="400" height="250">
